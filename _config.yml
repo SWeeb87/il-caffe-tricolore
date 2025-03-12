@@ -1,8 +1,8 @@
-title: Sito per Silvia ed Elisa
+title: Il Caffè Tricolore
 author: Autore Sito
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  un cancro per capire come farlo, MA FUNZIONA!!
+  Il Caffè Tricolore, dove si diventa consapevoli per governare il domani
 
 permalink: /:slug
 
