@@ -9,29 +9,29 @@ navbar_entries:
     url: 
 
 project_entries:
-  - title: Test Post
+  - title: Basi
     url: sweeb87.github.io/il-caffe-tricolore/overview-post
-    desc: Questo pulsante porta ad un post di test
+    desc: 
 
-  - title: Qui è tutto in giapponese
+  - title: Legislazione
     url: sweeb87.github.io/il-caffe-tricolore/language-tests
-    desc: Ching chong bling blong
+    desc: 
 
-  - title: Test Post
+  - title: Partiti politici
     url: https://sweeb87.github.io/Test-Site/overview-post
-    desc: Questo pulsante porta ad un post di test
+    desc: 
     
-  - title: Test Post
+  - title: Voto
     url: https://sweeb87.github.io/Test-Site/overview-post
-    desc: Questo pulsante porta ad un post di test
+    desc: 
 
-  - title: Test Post
+  - title: Novità
     url: https://sweeb87.github.io/Test-Site/overview-post
-    desc: Questo pulsante porta ad un post di test
+    desc: 
 
-  - title: Test Post
+  - title: Giovani
     url: https://sweeb87.github.io/Test-Site/overview-post
-    desc: Questo pulsante porta ad un post di test
+    desc: 
 
 old_project_entries:
   - title: Pagina 7
