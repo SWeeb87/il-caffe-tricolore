@@ -10,11 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: Test Post
-    url: https://sweeb87.github.io/Sito-per-la-silvia/overview-post
+    url: sweeb87.github.io/il-caffe-tricolore/overview-post
     desc: Questo pulsante porta ad un post di test
 
   - title: Qui è tutto in giapponese
-    url: https://sweeb87.github.io/Sito-per-la-silvia/language-tests
+    url: sweeb87.github.io/il-caffe-tricolore/language-tests
     desc: Ching chong bling blong
 
   # - title: Test Post
