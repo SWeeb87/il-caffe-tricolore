@@ -17,21 +17,21 @@ project_entries:
     url: sweeb87.github.io/il-caffe-tricolore/language-tests
     desc: Ching chong bling blong
 
-  # - title: Test Post
-  #  url: https://sweeb87.github.io/Test-Site/overview-post
-  #  desc: Questo pulsante porta ad un post di test
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
+    
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
-  # - title: Test Post
-  #  url: https://sweeb87.github.io/Test-Site/overview-post
-  #  desc: Questo pulsante porta ad un post di test
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
-  # - title: Test Post
-  # url: https://sweeb87.github.io/Test-Site/overview-post
-  # desc: Questo pulsante porta ad un post di test
-
-  # - title: Test Post
-  # url: https://sweeb87.github.io/Test-Site/overview-post
-  # desc: Questo pulsante porta ad un post di test
+  - title: Test Post
+    url: https://sweeb87.github.io/Test-Site/overview-post
+    desc: Questo pulsante porta ad un post di test
 
 old_project_entries:
   - title: Pagina 7
